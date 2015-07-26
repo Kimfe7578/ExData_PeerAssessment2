@@ -1,4 +1,3 @@
-My [Coursera-Exploratory-Data-Analysis](https://github.com/Xiaodan/Coursera-Exploratory-Data-Analysis) Repo  
 
 ### Introduction
 
