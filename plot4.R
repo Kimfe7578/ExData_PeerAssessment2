@@ -26,3 +26,4 @@ plot(coalEmissions, type = "l", xlab = "Year",
      ylab = expression('Total PM'[2.5]*" Emission"))
 
 dev.off()
+
